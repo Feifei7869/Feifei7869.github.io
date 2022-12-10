@@ -2319,7 +2319,7 @@ body1 {
 	/*	text-transform: uppercase;*/
 		padding: 2em 0;
 		background: #fff;
-		margin: auto;
+		margin: auto auto;
 	}
 
 		#header .logo {
