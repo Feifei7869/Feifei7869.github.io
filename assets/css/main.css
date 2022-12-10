@@ -105,6 +105,16 @@ input, select, textarea {
 		line-height: 2em;
 	}
 
+body1 {
+   align-items: center;
+   justify-content: center;
+   flex-direction: column-reverse;
+   font-size: 13pt;
+   max-width: 10000px;
+   margin: 0 auto;
+}
+
+
 	h1, h2, h3, h4, h5, h6 {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
