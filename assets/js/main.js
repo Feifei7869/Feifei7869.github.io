@@ -66,7 +66,7 @@
 					hideOnSwipe: true,
 					resetScroll: true,
 					resetForms: true,
-					side: 'left',
+					side: 'top',
 					target: $body,
 					visibleClass: 'navPanel-visible'
 				});
