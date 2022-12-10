@@ -2327,7 +2327,7 @@ body1 {
 			text-align: center;
 			border-top: solid 5px #e7eae8;
 			top: 0.65em;
-			padding-top: 0.65em;
+		
 		}
 
 			#header .logo div {
@@ -2335,12 +2335,12 @@ body1 {
 				position: relative;
 				display: inline-block;
 				padding: 0 1.5em 0 1.5em;
-				top: -1.3em;
+				top: -0.65em;
 				
 			}
 
 			#header .logo h1 {
-				display: inline;
+				display: inline-block;
 			}
 
 			#header .logo p {
